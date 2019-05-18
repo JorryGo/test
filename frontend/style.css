@@ -1,0 +1,66 @@
+body {
+    background: rgba(30, 183, 21, 0.18);
+}
+
+.title {
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 40%;
+    min-width: 100px;
+    text-align: center;
+}
+
+.form textarea {
+    width: 90%;
+    height: 120px;
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.info {
+    text-align: center;
+    margin: 13px;
+    font-size: 21px;
+    opacity: 0;
+}
+
+#reviews {
+    margin: 0 auto;
+    width: 40%;
+    min-width: 100px;
+}
+
+.post {
+    background: #44ca5a;
+    border-radius: 6px;
+    padding: 4px;
+    margin: 10px;
+}
+
+.post .date {
+    color: #091dbd;
+    font-size: 10px;
+}
+
+.post .text {
+    margin: 10px;
+}
+
+.show {
+    opacity: 1;
+}
+
+.send-button {
+    display: block;
+    margin: 0 auto;
+}
